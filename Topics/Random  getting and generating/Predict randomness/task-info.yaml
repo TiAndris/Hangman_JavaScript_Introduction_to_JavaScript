@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - <code>Math.random();</code>
+  - <code>(Math.random() * 10) + 5;</code>
+  - <code>Math.floor(Math.random() * 30);</code>
+  - <code>Math.floor(Math.random() * 100) + 10;</code>
+options:
+  - 6.451487678529537
+  - 42
+  - 23
+  - 0.3091216188865904
+files:
+  - name: main.js
+    visible: true
+    text: |+
+      // You can experiment here, it won’t be checked
+    
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18845#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

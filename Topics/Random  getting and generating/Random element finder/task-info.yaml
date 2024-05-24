@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: main.js
+    visible: true
+    highlight_level: NONE
+    text: "function getRomanNumber(array) {\n// Write your code here  \n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18849#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 22 May 2024 08:56:34 UTC"
+record: -1
+submission_language: javascript
